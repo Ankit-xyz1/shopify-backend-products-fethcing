@@ -13,7 +13,7 @@ app.use(express.json());
 const PORT = 3001;
 
 // MongoDB URI (Replace with your MongoDB URI)
-const mongoURI = 'mongodb://localhost:27017/xxxxDBfrr';
+const mongoURI = 'mongodb+srv://Kunal:12345@cluster0.k7okk0o.mongodb.net/shopify?retryWrites=true&w=majority&appName=Cluster0';
 
 // Connect to MongoDB using Mongoose
 const connectDB = async () => {
