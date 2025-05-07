@@ -1,0 +1,688 @@
+{
+    "products": [
+        {
+            "id": 8220988145845,
+            "title": "Adore Ring",
+            "body_html": "<p><span>Capture love’s sparkle with our Adore Ring—a round diamond atop a heart-shaped gold band. A timeless symbol of romance and commitment.</span></p>",
+            "vendor": "Protega ai",
+            "product_type": "ring",
+            "created_at": "2025-05-07T01:26:09-04:00",
+            "handle": "adore-ring",
+            "updated_at": "2025-05-07T01:26:10-04:00",
+            "published_at": "2025-05-07T01:26:09-04:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8220988145845",
+            "variants": [
+                {
+                    "id": 45353420030133,
+                    "product_id": 8220988145845,
+                    "title": "Default Title",
+                    "price": "27610.00",
+                    "position": 1,
+                    "inventory_policy": "continue",
+                    "compare_at_price": "40000.00",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-05-07T01:26:10-04:00",
+                    "updated_at": "2025-05-07T01:26:10-04:00",
+                    "taxable": true,
+                    "barcode": "",
+                    "fulfillment_service": "manual",
+                    "grams": 5,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "MARQ-EARR-003",
+                    "weight": 5.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 47484784345269,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/45353420030133",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 10443413815477,
+                    "product_id": 8220988145845,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 40370872877237,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8220988145845,
+                    "created_at": "2025-05-07T01:24:44-04:00",
+                    "updated_at": "2025-05-07T01:24:46-04:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/40370872877237",
+                    "width": 1600,
+                    "height": 1600,
+                    "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/ring2.png?v=1746595486",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 40370872877237,
+                "alt": null,
+                "position": 1,
+                "product_id": 8220988145845,
+                "created_at": "2025-05-07T01:24:44-04:00",
+                "updated_at": "2025-05-07T01:24:46-04:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/40370872877237",
+                "width": 1600,
+                "height": 1600,
+                "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/ring2.png?v=1746595486",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 8220987785397,
+            "title": "Drilled Diamond Drop Earring",
+            "body_html": "<p><span>The Drilled Diamond Drop earrings feature exquisite diamonds elegantly suspended, offering a perfect blend of modern design and timeless sophistication.</span></p>",
+            "vendor": "Protega ai",
+            "product_type": "Earrings",
+            "created_at": "2025-05-07T01:22:58-04:00",
+            "handle": "drilled-diamond-drop-earring",
+            "updated_at": "2025-05-07T01:23:01-04:00",
+            "published_at": "2025-05-07T01:22:58-04:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8220987785397",
+            "variants": [
+                {
+                    "id": 45353419505845,
+                    "product_id": 8220987785397,
+                    "title": "Default Title",
+                    "price": "196905.00",
+                    "position": 1,
+                    "inventory_policy": "continue",
+                    "compare_at_price": "210000.00",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-05-07T01:22:59-04:00",
+                    "updated_at": "2025-05-07T01:22:59-04:00",
+                    "taxable": true,
+                    "barcode": "",
+                    "fulfillment_service": "manual",
+                    "grams": 5,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "MARQ-EARR-002",
+                    "weight": 5.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 47484783820981,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/45353419505845",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 10443413356725,
+                    "product_id": 8220987785397,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 40370859081909,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8220987785397,
+                    "created_at": "2025-05-07T01:20:49-04:00",
+                    "updated_at": "2025-05-07T01:20:50-04:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/40370859081909",
+                    "width": 1500,
+                    "height": 1500,
+                    "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/test20.jpg?v=1746595250",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 40370859081909,
+                "alt": null,
+                "position": 1,
+                "product_id": 8220987785397,
+                "created_at": "2025-05-07T01:20:49-04:00",
+                "updated_at": "2025-05-07T01:20:50-04:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/40370859081909",
+                "width": 1500,
+                "height": 1500,
+                "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/test20.jpg?v=1746595250",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 8220987031733,
+            "title": "Marquise Illusion Earring",
+            "body_html": "<p>:sparkles: **Product Description**</p>\n<p>The **Marquise Illusion Earrings** showcase a captivating design that combines the elegance of marquise-cut stones with a shimmering illusion effect. Perfect for adding a touch of glamour to any ensemble, these earrings are ideal for weddings, receptions, or evening parties.</p>\n<p>**Features:**<br>- Premium marquise-cut stones<br>- Illusion setting for enhanced brilliance<br>- Lightweight and comfortable<br>- Hypoallergenic alloy base</p>\n<p>:gem: Make a statement with timeless elegance.</p>",
+            "vendor": "Protega ai",
+            "product_type": "Earrings",
+            "created_at": "2025-05-07T01:18:05-04:00",
+            "handle": "marquise-illusion-earring",
+            "updated_at": "2025-05-07T01:18:56-04:00",
+            "published_at": "2025-05-07T01:18:05-04:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8220987031733",
+            "variants": [
+                {
+                    "product_id": 8220987031733,
+                    "id": 45353412362421,
+                    "title": "Default Title",
+                    "price": "178871.00",
+                    "position": 1,
+                    "inventory_policy": "continue",
+                    "compare_at_price": "199999.00",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-05-07T01:18:08-04:00",
+                    "updated_at": "2025-05-07T01:18:56-04:00",
+                    "taxable": true,
+                    "barcode": "",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "MARQ-EARR-001",
+                    "weight": 0.2,
+                    "weight_unit": "g",
+                    "inventory_item_id": 47484776677557,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/45353412362421",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "product_id": 8220987031733,
+                    "id": 10443412308149,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 40370832867509,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8220987031733,
+                    "created_at": "2025-05-07T01:11:10-04:00",
+                    "updated_at": "2025-05-07T01:11:11-04:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/40370832867509",
+                    "width": 1500,
+                    "height": 1500,
+                    "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/image88.jpg?v=1746594671",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 40370832867509,
+                "alt": null,
+                "position": 1,
+                "product_id": 8220987031733,
+                "created_at": "2025-05-07T01:11:10-04:00",
+                "updated_at": "2025-05-07T01:11:11-04:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/40370832867509",
+                "width": 1500,
+                "height": 1500,
+                "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/image88.jpg?v=1746594671",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 8220988473525,
+            "title": "Serpentia",
+            "body_html": "<p><span>Elegance with a hint of intrigue: A captivating round diamond adorned with petite diamonds and a subtle serpentine tail, makes this piece enchanting</span></p>",
+            "vendor": "Protega ai",
+            "product_type": "ring",
+            "created_at": "2025-05-07T01:28:35-04:00",
+            "handle": "serpentia",
+            "updated_at": "2025-05-07T01:28:36-04:00",
+            "published_at": "2025-05-07T01:28:35-04:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8220988473525",
+            "variants": [
+                {
+                    "id": 45353420554421,
+                    "product_id": 8220988473525,
+                    "title": "Default Title",
+                    "price": "101979.00",
+                    "position": 1,
+                    "inventory_policy": "continue",
+                    "compare_at_price": "120000.00",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-05-07T01:28:36-04:00",
+                    "updated_at": "2025-05-07T01:28:36-04:00",
+                    "taxable": true,
+                    "barcode": "",
+                    "fulfillment_service": "manual",
+                    "grams": 5,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "MARQ-EARR-004",
+                    "weight": 5.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 47484784869557,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/45353420554421",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 10443414208693,
+                    "product_id": 8220988473525,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 40370881724597,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8220988473525,
+                    "created_at": "2025-05-07T01:27:24-04:00",
+                    "updated_at": "2025-05-07T01:27:25-04:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/40370881724597",
+                    "width": 1600,
+                    "height": 1600,
+                    "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/test33.jpg?v=1746595645",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 40370881724597,
+                "alt": null,
+                "position": 1,
+                "product_id": 8220988473525,
+                "created_at": "2025-05-07T01:27:24-04:00",
+                "updated_at": "2025-05-07T01:27:25-04:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/40370881724597",
+                "width": 1600,
+                "height": 1600,
+                "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/test33.jpg?v=1746595645",
+                "variant_ids": []
+            }
+        }
+    ]
+}
+{
+    "products": [
+        {
+            "id": 8220988145845,
+            "title": "Adore Ring",
+            "body_html": "<p><span>Capture love’s sparkle with our Adore Ring—a round diamond atop a heart-shaped gold band. A timeless symbol of romance and commitment.</span></p>",
+            "vendor": "Protega ai",
+            "product_type": "ring",
+            "created_at": "2025-05-07T01:26:09-04:00",
+            "handle": "adore-ring",
+            "updated_at": "2025-05-07T01:26:10-04:00",
+            "published_at": "2025-05-07T01:26:09-04:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8220988145845",
+            "variants": [
+                {
+                    "id": 45353420030133,
+                    "product_id": 8220988145845,
+                    "title": "Default Title",
+                    "price": "27610.00",
+                    "position": 1,
+                    "inventory_policy": "continue",
+                    "compare_at_price": "40000.00",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-05-07T01:26:10-04:00",
+                    "updated_at": "2025-05-07T01:26:10-04:00",
+                    "taxable": true,
+                    "barcode": "",
+                    "fulfillment_service": "manual",
+                    "grams": 5,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "MARQ-EARR-003",
+                    "weight": 5.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 47484784345269,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/45353420030133",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 10443413815477,
+                    "product_id": 8220988145845,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 40370872877237,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8220988145845,
+                    "created_at": "2025-05-07T01:24:44-04:00",
+                    "updated_at": "2025-05-07T01:24:46-04:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/40370872877237",
+                    "width": 1600,
+                    "height": 1600,
+                    "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/ring2.png?v=1746595486",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 40370872877237,
+                "alt": null,
+                "position": 1,
+                "product_id": 8220988145845,
+                "created_at": "2025-05-07T01:24:44-04:00",
+                "updated_at": "2025-05-07T01:24:46-04:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/40370872877237",
+                "width": 1600,
+                "height": 1600,
+                "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/ring2.png?v=1746595486",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 8220987785397,
+            "title": "Drilled Diamond Drop Earring",
+            "body_html": "<p><span>The Drilled Diamond Drop earrings feature exquisite diamonds elegantly suspended, offering a perfect blend of modern design and timeless sophistication.</span></p>",
+            "vendor": "Protega ai",
+            "product_type": "Earrings",
+            "created_at": "2025-05-07T01:22:58-04:00",
+            "handle": "drilled-diamond-drop-earring",
+            "updated_at": "2025-05-07T01:23:01-04:00",
+            "published_at": "2025-05-07T01:22:58-04:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8220987785397",
+            "variants": [
+                {
+                    "id": 45353419505845,
+                    "product_id": 8220987785397,
+                    "title": "Default Title",
+                    "price": "196905.00",
+                    "position": 1,
+                    "inventory_policy": "continue",
+                    "compare_at_price": "210000.00",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-05-07T01:22:59-04:00",
+                    "updated_at": "2025-05-07T01:22:59-04:00",
+                    "taxable": true,
+                    "barcode": "",
+                    "fulfillment_service": "manual",
+                    "grams": 5,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "MARQ-EARR-002",
+                    "weight": 5.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 47484783820981,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/45353419505845",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 10443413356725,
+                    "product_id": 8220987785397,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 40370859081909,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8220987785397,
+                    "created_at": "2025-05-07T01:20:49-04:00",
+                    "updated_at": "2025-05-07T01:20:50-04:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/40370859081909",
+                    "width": 1500,
+                    "height": 1500,
+                    "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/test20.jpg?v=1746595250",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 40370859081909,
+                "alt": null,
+                "position": 1,
+                "product_id": 8220987785397,
+                "created_at": "2025-05-07T01:20:49-04:00",
+                "updated_at": "2025-05-07T01:20:50-04:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/40370859081909",
+                "width": 1500,
+                "height": 1500,
+                "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/test20.jpg?v=1746595250",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 8220987031733,
+            "title": "Marquise Illusion Earring",
+            "body_html": "<p>:sparkles: **Product Description**</p>\n<p>The **Marquise Illusion Earrings** showcase a captivating design that combines the elegance of marquise-cut stones with a shimmering illusion effect. Perfect for adding a touch of glamour to any ensemble, these earrings are ideal for weddings, receptions, or evening parties.</p>\n<p>**Features:**<br>- Premium marquise-cut stones<br>- Illusion setting for enhanced brilliance<br>- Lightweight and comfortable<br>- Hypoallergenic alloy base</p>\n<p>:gem: Make a statement with timeless elegance.</p>",
+            "vendor": "Protega ai",
+            "product_type": "Earrings",
+            "created_at": "2025-05-07T01:18:05-04:00",
+            "handle": "marquise-illusion-earring",
+            "updated_at": "2025-05-07T01:18:56-04:00",
+            "published_at": "2025-05-07T01:18:05-04:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8220987031733",
+            "variants": [
+                {
+                    "product_id": 8220987031733,
+                    "id": 45353412362421,
+                    "title": "Default Title",
+                    "price": "178871.00",
+                    "position": 1,
+                    "inventory_policy": "continue",
+                    "compare_at_price": "199999.00",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-05-07T01:18:08-04:00",
+                    "updated_at": "2025-05-07T01:18:56-04:00",
+                    "taxable": true,
+                    "barcode": "",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "MARQ-EARR-001",
+                    "weight": 0.2,
+                    "weight_unit": "g",
+                    "inventory_item_id": 47484776677557,
+                    "inventory_quantity": 1,
+                    "old_inventory_quantity": 1,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/45353412362421",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "product_id": 8220987031733,
+                    "id": 10443412308149,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 40370832867509,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8220987031733,
+                    "created_at": "2025-05-07T01:11:10-04:00",
+                    "updated_at": "2025-05-07T01:11:11-04:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/40370832867509",
+                    "width": 1500,
+                    "height": 1500,
+                    "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/image88.jpg?v=1746594671",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 40370832867509,
+                "alt": null,
+                "position": 1,
+                "product_id": 8220987031733,
+                "created_at": "2025-05-07T01:11:10-04:00",
+                "updated_at": "2025-05-07T01:11:11-04:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/40370832867509",
+                "width": 1500,
+                "height": 1500,
+                "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/image88.jpg?v=1746594671",
+                "variant_ids": []
+            }
+        },
+        {
+            "id": 8220988473525,
+            "title": "Serpentia",
+            "body_html": "<p><span>Elegance with a hint of intrigue: A captivating round diamond adorned with petite diamonds and a subtle serpentine tail, makes this piece enchanting</span></p>",
+            "vendor": "Protega ai",
+            "product_type": "ring",
+            "created_at": "2025-05-07T01:28:35-04:00",
+            "handle": "serpentia",
+            "updated_at": "2025-05-07T01:28:36-04:00",
+            "published_at": "2025-05-07T01:28:35-04:00",
+            "template_suffix": "",
+            "published_scope": "global",
+            "tags": "",
+            "status": "active",
+            "admin_graphql_api_id": "gid://shopify/Product/8220988473525",
+            "variants": [
+                {
+                    "id": 45353420554421,
+                    "product_id": 8220988473525,
+                    "title": "Default Title",
+                    "price": "101979.00",
+                    "position": 1,
+                    "inventory_policy": "continue",
+                    "compare_at_price": "120000.00",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2025-05-07T01:28:36-04:00",
+                    "updated_at": "2025-05-07T01:28:36-04:00",
+                    "taxable": true,
+                    "barcode": "",
+                    "fulfillment_service": "manual",
+                    "grams": 5,
+                    "inventory_management": "shopify",
+                    "requires_shipping": true,
+                    "sku": "MARQ-EARR-004",
+                    "weight": 5.0,
+                    "weight_unit": "g",
+                    "inventory_item_id": 47484784869557,
+                    "inventory_quantity": 0,
+                    "old_inventory_quantity": 0,
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/45353420554421",
+                    "image_id": null
+                }
+            ],
+            "options": [
+                {
+                    "id": 10443414208693,
+                    "product_id": 8220988473525,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 40370881724597,
+                    "alt": null,
+                    "position": 1,
+                    "product_id": 8220988473525,
+                    "created_at": "2025-05-07T01:27:24-04:00",
+                    "updated_at": "2025-05-07T01:27:25-04:00",
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/40370881724597",
+                    "width": 1600,
+                    "height": 1600,
+                    "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/test33.jpg?v=1746595645",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 40370881724597,
+                "alt": null,
+                "position": 1,
+                "product_id": 8220988473525,
+                "created_at": "2025-05-07T01:27:24-04:00",
+                "updated_at": "2025-05-07T01:27:25-04:00",
+                "admin_graphql_api_id": "gid://shopify/ProductImage/40370881724597",
+                "width": 1600,
+                "height": 1600,
+                "src": "https://cdn.shopify.com/s/files/1/0706/6478/2005/files/test33.jpg?v=1746595645",
+                "variant_ids": []
+            }
+        }
+    ]
+}
